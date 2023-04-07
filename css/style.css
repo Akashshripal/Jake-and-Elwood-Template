@@ -58,6 +58,10 @@ h1, h2, strong {
     margin-bottom: 0;
 }
 
+.hero-subtitle {
+    font-size: 1.125rem;
+}
+
 .section-title {
     font-size: 1.125rem;
     color: #000;
@@ -90,12 +94,18 @@ h1, h2, strong {
     margin-top: .5em;
     text-decoration: none;
     border: 0;
+    cursor: pointer;
 }
 
 .btn-primary {
     background: #FFE600;
     color: #000;
     justify-self: start;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    background: #ffc400;
 }
 
 .btn-form {
@@ -204,6 +214,10 @@ h1, h2, strong {
     font-size: 1.5em;
 }
 
+.current {
+    border-bottom: 1px solid #FFE600;
+}
+
 @media (min-width: 600px) {
     .open-nav,
     .close-nav {
@@ -303,7 +317,8 @@ h1, h2, strong {
 ===================== */
 
 .hero {
-    background-image: url(img/hero-bg.jpg);
+    background:#000;
+    background-image: url(../img/hero-bg.jpg);
     background-size: cover;
     background-position: bottom;
     padding: 8em 0 4em;
