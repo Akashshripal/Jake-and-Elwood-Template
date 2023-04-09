@@ -1,21 +1,9 @@
-# co98f4ae18110825c2f61276a
+The project is designed using HTML, CSS, and some JavaScript. The primary focus was on using CSS grid properties to create a responsive design for three web pages: Home, About, and Contact.
 
-Quick start:
+The project was inspired by the template of Jake and Elwood, the famous Blues Brothers. The design elements have been carefully curated to reflect the essence of the template, while also creating a unique and visually appealing layout.
 
-```
-$ npm install
-$ npm start
-````
+The Home page features a banner image of Jake and Elwood, along with a brief introduction to their story. The page also includes a navigation menu that allows users to easily switch between the different pages.
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+The About page provides detailed information about Jake and Elwood, including their history and achievements. The page layout has been designed to be easy to read and visually engaging, with appropriate use of typography and graphics.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+The Contact page includes a form that allows users to send a message to Jake and Elwood. The form has been designed to be simple and easy to use, while also ensuring that all necessary information is collected from the user. Overall, the project demonstrates the ability to create a responsive and visually appealing design using CSS grid properties and HTML, with some additional functionality using JavaScript.
